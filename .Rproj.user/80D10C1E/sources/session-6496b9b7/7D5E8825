@@ -1,0 +1,24 @@
+{
+    "id": "7D5E8825",
+    "path": "~/r/vizfire/tests/testthat/test-plotly_stylish.R",
+    "project_path": "tests/testthat/test-plotly_stylish.R",
+    "type": "r_source",
+    "hash": "4184250184",
+    "contents": "",
+    "dirty": false,
+    "created": 1718234927502.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718233180,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718233180,
+    "read_only": false,
+    "read_only_alternatives": []
+}
