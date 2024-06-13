@@ -1,17 +1,22 @@
 Package: vizfire
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Custom Themes and Palettes for ggplot2 and plotly
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: c(
+    person("Brian", "Balzar", email = "brian.balzar@spitfire-data.com, role = c("aut", "cre"))
+)
+Description: Provides custom themes and color palettes for ggplot2 and plotly, designed for professional and clean visualizations suitable for business and academic presentations.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Suggests: 
+Imports:
+    ggplot2,
+    plotly,
     knitr,
-    rmarkdown,
-    testthat (>= 3.0.0)
-Config/testthat/edition: 3
+    kableExtra
+RoxygenNote: 7.1.2
+Suggests:
+    remotes,
+    testthat (>= 3.0.0),
+    dplyr
 VignetteBuilder: knitr
