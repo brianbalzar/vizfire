@@ -66,7 +66,7 @@ spitfire_theme <- function(format = "ggplot") {
           panel.background = ggplot2::element_rect(fill = "white", color = "gray80"),
           panel.grid.major = ggplot2::element_line(color = "gray90", linewidth = 0.5),
           panel.grid.minor = ggplot2::element_line(color = "gray95", linewidth = 0.25),
-          panel.border = ggplot2::element_rect(color = "gray80", fill = NA, linewidth = 0.5),
+          panel.border = ggplot2::element_rect(color = "black", fill = NA, linewidth = 1),
 
           # Plot margins
           plot.margin = ggplot2::unit(c(15, 15, 5, 5), "pt")
