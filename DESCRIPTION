@@ -13,7 +13,8 @@ Imports:
     ggplot2,
     plotly,
     knitr,
-    kableExtra
+    kableExtra,
+    extrafont
 RoxygenNote: 7.1.2
 Suggests:
     remotes,
