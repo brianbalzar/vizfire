@@ -8,7 +8,7 @@ You can install the `vizfire` package directly from GitHub using the `remotes` p
 
 ```r
 install.packages("remotes")
-remotes::install_github("yourusername/vizfire")
+remotes::install_github("brianbalzar/vizfire")
 ```
 
 ## Features
